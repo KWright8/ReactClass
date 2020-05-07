@@ -1,5 +1,5 @@
 # ReactClass
 
 
-## Run app
-npm start
+### Run app
+- npm start
