@@ -4,11 +4,6 @@ import './index.css';
 import App from './App';
 import * as serviceWorker from './serviceWorker';
 
-import BasicsList from "./componets/BasicsList.js";
-import PageHeader from "./componets/PageHeader.js";
-import TipsList from './componets/TipsList';
-
-
 ReactDOM.render(
   <App />,
   document.getElementById('root')

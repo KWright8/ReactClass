@@ -5,16 +5,16 @@ import PageHeader from './componets/PageHeader';
 import BasicsList from './componets/BasicsList';
 import TipsList from './componets/TipsList';
 import PageFooter from './componets/PageFooter';
+import CheckBox from './InteractiveComponets/CheckBox';
 
 function App() {
   return (
       <div>
         <PageHeader />
-          <main>
-           <BasicsList />
-           <TipsList />
-          </main>
-          <PageFooter />
+        <BasicsList />
+        <TipsList />
+        <CheckBox />
+        <PageFooter />
       </div>
   )
 }

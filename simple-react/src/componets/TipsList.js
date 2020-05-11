@@ -8,7 +8,7 @@ function TipsList() {
         <li>Adj JSX elements muste wrapped in something for example div 
         so it can be considered one element with two 
         elements inside. </li>
-        <li>Using functions allows for the reuss of componets.</li>
+        <li>Using functions allows for the reuse of componets.</li>
       </ul>
     )
 }
